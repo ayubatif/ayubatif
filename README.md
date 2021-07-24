@@ -1,4 +1,3 @@
-##### 😃👍
 ### Written by Misaka13514
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Misaka13514&theme=tokyonight&show_icons=true">
