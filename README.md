@@ -16,8 +16,3 @@ https://xkcd.com/722/
 
 <hr>
 <img aligh="center" src="https://aster-readme.vercel.app/api/top-langs/?username=ayubatif&exclude_lang=html&layout=compact">
-<hr>
-
-##### 😃👍
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayubatif&theme=highcontrast&show_icons=true">
